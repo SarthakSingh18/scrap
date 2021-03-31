@@ -1,1 +1,3 @@
-this repository contains main python file with csv data.I have exported Mysql table data into csv file
+I tried webscrapping for the first time with python.
+I have done webscrapping with nodejs before but this project help me understand the low complexities with python.
+
